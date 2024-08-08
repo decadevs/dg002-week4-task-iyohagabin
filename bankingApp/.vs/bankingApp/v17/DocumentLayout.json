@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|c:\\users\\gabin\\desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingapp\\bankingapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|solutionrelative:bankingapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|c:\\users\\gabin\\desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingapp\\bankingapp\\enum\\accounttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|solutionrelative:bankingapp\\enum\\accounttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|c:\\users\\gabin\\desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingapp\\bankingapp\\enum\\transactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|solutionrelative:bankingapp\\enum\\transactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|c:\\users\\gabin\\desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingapp\\bankingapp\\models\\account service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|solutionrelative:bankingapp\\models\\account service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|c:\\users\\gabin\\desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingapp\\bankingapp\\models\\accountinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|solutionrelative:bankingapp\\models\\accountinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|c:\\users\\gabin\\desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingapp\\bankingapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|solutionrelative:bankingapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|c:\\users\\gabin\\desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingapp\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4914877-350F-4424-8EBE-4564AF78C694}|bankingApp\\bankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "bankingApp\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Services\\CustomerService.cs",
+              "RelativeToolTip": "bankingApp\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:40:45.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Enum\\AccountTypeEnum.cs",
+              "RelativeDocumentMoniker": "bankingApp\\Enum\\AccountTypeEnum.cs",
+              "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Enum\\AccountTypeEnum.cs",
+              "RelativeToolTip": "bankingApp\\Enum\\AccountTypeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:29:09.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Enum\\TransactionTypeEnum.cs",
+              "RelativeDocumentMoniker": "bankingApp\\Enum\\TransactionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Enum\\TransactionTypeEnum.cs",
+              "RelativeToolTip": "bankingApp\\Enum\\TransactionTypeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:14:39.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account Service.cs",
+              "DocumentMoniker": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Models\\Account Service.cs",
+              "RelativeDocumentMoniker": "bankingApp\\Models\\Account Service.cs",
+              "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Models\\Account Service.cs",
+              "RelativeToolTip": "bankingApp\\Models\\Account Service.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:53:46.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Models\\AccountInfo.cs",
+              "RelativeDocumentMoniker": "bankingApp\\Models\\AccountInfo.cs",
+              "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Models\\AccountInfo.cs",
+              "RelativeToolTip": "bankingApp\\Models\\AccountInfo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:41:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "bankingApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Models\\Customer.cs",
+              "RelativeToolTip": "bankingApp\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:18:54.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Program.cs",
+              "RelativeDocumentMoniker": "bankingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Program.cs",
+              "RelativeToolTip": "bankingApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:10:20.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
