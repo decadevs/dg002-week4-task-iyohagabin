@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "bankingApp\\Services\\CustomerService.cs",
               "ToolTip": "C:\\Users\\gabin\\Desktop\\assignment\\dg002-week4-task-iyohagabin\\bankingApp\\bankingApp\\Services\\CustomerService.cs",
               "RelativeToolTip": "bankingApp\\Services\\CustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T15:40:45.603Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "bankingApp\\Enum\\AccountTypeEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:29:09.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T15:29:09.71Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "bankingApp\\Enum\\TransactionTypeEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:14:39.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T15:14:39.841Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "bankingApp\\Models\\Account Service.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAowBUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T14:53:46.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T14:53:46.806Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "bankingApp\\Models\\AccountInfo.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T14:41:54.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T14:41:54.601Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "bankingApp\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T14:18:54.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T14:18:54.14Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "bankingApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T14:10:20.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T14:10:20.251Z"
             }
           ]
         }
